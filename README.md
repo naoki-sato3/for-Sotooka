@@ -16,3 +16,6 @@ hiroya.pyは僕が今使ってるコードのコピーで、CIFAR10（データ�
 でも、そのままダウンロードしても動かないはずですから、見るだけにしてください。ごめんね。  
 
 hiroya.pyはこの[github](https://github.com/kuangliu/pytorch-cifar)を参考にして作られています。こっちなら、実行の方法も書いてあるからすぐに動かせますよ。
+
+1epochごとに分類精度を計算してグラフにすると、例えばこんな風になります。
+<img width="1142" alt="スクリーンショット 2023-02-24 15 52 02" src="https://user-images.githubusercontent.com/95958702/221112016-6045c07d-a76b-4e27-bde3-c98b2198227c.png">
